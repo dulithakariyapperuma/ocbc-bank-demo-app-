@@ -7,8 +7,8 @@ import "./index.css";
 const authConfig = {
   clientID: "GHcb9xQJmiK64BIorJ52ViIyr38a",
   baseUrl: "https://localhost:9443",
-  signInRedirectURL: "http://localhost:5175",
-  signOutRedirectURL: "http://localhost:5175",
+  signInRedirectURL: "https://ocbc-bank-demo-app.vercel.app/",
+  signOutRedirectURL: "https://ocbc-bank-demo-app.vercel.app/",
   scope: ["openid", "profile", "email"],
   storage: "sessionStorage",
 };
