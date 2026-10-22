@@ -5,7 +5,7 @@ import App from "./App.jsx";
 import "./index.css";
 
 const authConfig = {
-  clientID: "GHcb9xQJmiK64BIorJ52ViIyr38a",
+  clientID: "XXEzHgvjXmh7tOHq4rbtFHCifs0a",
   baseUrl: "https://localhost:9443",
   signInRedirectURL: "https://ocbc-bank-demo-app.vercel.app/",
   signOutRedirectURL: "https://ocbc-bank-demo-app.vercel.app/",
